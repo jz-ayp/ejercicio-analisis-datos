@@ -1,6 +1,8 @@
 # Ejercicio de análisis de datos
 
-El archivo adjunto `datos.csv` contiene los registros de experimentos realizados con un grupo de microorganismos diferentes durante el año 2020.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jz-ayp/ejercico-analisis-datos/HEAD)
+
+El archivo adjunto [`datos.csv`](./datos.csv) contiene los registros de experimentos realizados con un grupo de microorganismos diferentes durante el año 2020.
 
 Cada columna contiene los valores correspondientes a los parámetros y resultados codificados que se indican como encabezado de la misma.
 
