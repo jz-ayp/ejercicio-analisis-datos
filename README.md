@@ -1,6 +1,6 @@
 # Ejercicio de análisis de datos
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jz-ayp/ejercico-analisis-datos/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jz-ayp/ejercicio-analisis-datos/HEAD)
 
 El archivo adjunto [`datos.csv`](./datos.csv) contiene los registros de experimentos realizados con un grupo de microorganismos diferentes durante el año 2020.
 
@@ -17,3 +17,5 @@ Crear programas en Python para:
 3. Crear una gráfica del resultado `D002` contra el parámetro `P001_G`.
 
 4. Extraer, para el `OrgID=220`, la información de los registros que presentan valores (diferentes de cero) para las columnas `PX`. Excluir de este análisis el parámetro (columna) `P005_X`. Reportar la fecha y los valores individuales de los parámetros `PX` (`P001_X`, `P002_X`, `P003_X`, etc.), así como el total `PX`.
+
+Puedes trabajar el ejercicio directamente en Binder o [clonarlo de GitHub](https://github.com/jz-ayp/ejercicio-analisis-datos.git).
